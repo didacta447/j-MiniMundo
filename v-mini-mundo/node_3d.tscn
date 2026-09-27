@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cafif2rs47823"]
+
+[ext_resource type="Script" uid="uid://bgw6amigx6qtm" path="res://hola-mundo.gd" id="1_a202f"]
+
+[node name="Node3D" type="Node3D" unique_id=992216507]
+script = ExtResource("1_a202f")
